@@ -16,6 +16,11 @@
     }
 }
 
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.open>a {
+  background: #a71c1c;
+  color: #fff;
+}
+
 .jumbotron {
   background: #fdf7e1;
   border: 1px solid #f2cb3b;
